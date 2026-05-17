@@ -3,7 +3,7 @@
 - [x] Create a tracking issue.
 - [x] Open a feature branch.
 - [x] Merge a pull request.
-- [ ] Keep the repository history readable.
+- [x] Keep the repository history readable.
 
 ## Notes
 
@@ -12,3 +12,6 @@ issue workflow.
 
 Two merged pull requests are used to exercise the pull request workflow
 without adding noisy files to the repository.
+
+Branch protection was temporarily tested to exercise the unreviewed merge
+path while keeping the repository history compact.
